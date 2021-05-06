@@ -1,0 +1,2 @@
+Prefix plugins/SequenceLength/example
+Plugin SequenceLength inputfile input.fasta outputfile stats.seqLength.txt
